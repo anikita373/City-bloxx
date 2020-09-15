@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\City Bloxx\City Bloxx\bin\Debug\City Bloxx.exe.config
+C:\Users\User\source\repos\City Bloxx\City Bloxx\bin\Debug\City Bloxx.exe
+C:\Users\User\source\repos\City Bloxx\City Bloxx\bin\Debug\City Bloxx.pdb
+C:\Users\User\source\repos\City Bloxx\City Bloxx\obj\Debug\City Bloxx.csprojAssemblyReference.cache
+C:\Users\User\source\repos\City Bloxx\City Bloxx\obj\Debug\City_Bloxx.Properties.Resources.resources
+C:\Users\User\source\repos\City Bloxx\City Bloxx\obj\Debug\City Bloxx.csproj.GenerateResource.cache
+C:\Users\User\source\repos\City Bloxx\City Bloxx\obj\Debug\City Bloxx.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\City Bloxx\City Bloxx\obj\Debug\City Bloxx.exe
+C:\Users\User\source\repos\City Bloxx\City Bloxx\obj\Debug\City Bloxx.pdb
+C:\Users\User\source\repos\City Bloxx\City Bloxx\obj\Debug\City_Bloxx.StartForm.resources
+C:\Users\User\source\repos\City Bloxx\City Bloxx\obj\Debug\City_Bloxx.GameForm.resources
